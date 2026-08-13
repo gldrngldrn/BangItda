@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-13T16:27:58.034664+09:00",
- "count": 102,
+ "generated_at": "2026-08-13T18:07:11.151751+09:00",
+ "count": 103,
  "notices": [
   {
    "source": "LH",
@@ -2601,6 +2601,38 @@
    "summary": null,
    "eligibility": null,
    "uid": "SH:307835"
+  },
+  {
+   "source": "GH",
+   "external_id": "임대주택-808",
+   "title": "경기리츠1호 다산진건데시앙 장기전세주택 예비입주자 모집공고",
+   "detail_url": "https://apply.gh.or.kr/sb/sr/sr7150/selectPbancDetailView.do?pbancNo=808",
+   "house_type": "장기전세",
+   "region_sido": "경기",
+   "region_sigungu": "남양주시",
+   "posted_at": "2026-08-13",
+   "apply_start": "2026-08-24",
+   "apply_end": "2026-08-26",
+   "status": "공고중",
+   "institution": null,
+   "building_type": null,
+   "supply_count": null,
+   "winner_at": null,
+   "deposit": null,
+   "monthly_rent": null,
+   "contact": null,
+   "pdf_url": "https://apply.gh.or.kr/sr/sr7150/selectFileDown.do?pbancNo=808&atchFileSn=1720251&atchFileDtlSn=6&mode=1",
+   "lat": null,
+   "lng": null,
+   "summary": "경기도 남양주시 다산진건데시앙 장기전세주택 예비입주자를 모집합니다. 입주자모집공고일 현재 성년자인 무주택세대구성원으로서 소득 및 자산 보유기준을 충족해야 합니다. 청약 신청은 2026년 8월 24일부터 8월 26일까지 진행됩니다.",
+   "eligibility": {
+    "age": "입주자모집공고일(2026.08.13.) 현재 성년자 (단, 자녀가 있는 미성년 세대주 등 일부 예외 적용)",
+    "income": "전년도 도시근로자 가구원수별 가구당 월평균 소득 100% 이하 (1~2순위 100%, 3순위 100% 초과~120% 이하, 1인 가구 120%, 2인 가구 110% 이하, 출생 자녀 수에 따라 가산)",
+    "assets": "총자산가액 41,700만원 이하, 자동차가액 4,542만원 이하 ('23.3.28. 이후 출생 자녀 수에 따라 차등 적용)",
+    "residence": "입주자모집공고일 현재 무주택세대구성원 (모집공고일부터 입주 시까지 유지 필수)",
+    "other": "1세대(무주택세대구성원 전원) 1주택만 신청 가능, 과거 공공임대주택 불법 양도·전대 적발 후 4년 미경과자 신청 불가"
+   },
+   "uid": "GH:임대주택-808"
   },
   {
    "source": "GH",
