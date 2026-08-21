@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-21T18:24:04.265665+09:00",
- "count": 113,
+ "generated_at": "2026-08-21T21:33:40.730060+09:00",
+ "count": 115,
  "notices": [
   {
    "source": "ETC",
@@ -3323,6 +3323,58 @@
     "other": "1세대(무주택세대구성원 전원) 1주택만 신청 가능, 과거 공공임대주택 불법 양도·전대 적발 후 4년 미경과자 신청 불가"
    },
    "uid": "GH:임대주택-808"
+  },
+  {
+   "source": "GH",
+   "external_id": "매입임대-803",
+   "title": "[추가모집] 26년 GH 특화형 매입임대주택 입주자 추가 모집 공고(운영기관 : 한지붕협동조합)",
+   "detail_url": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancDetailView.do?pbancNo=803",
+   "house_type": "매입임대",
+   "region_sido": "경기",
+   "region_sigungu": "경기도",
+   "posted_at": "2026-07-07",
+   "apply_start": null,
+   "apply_end": null,
+   "status": "-",
+   "institution": null,
+   "building_type": null,
+   "supply_count": null,
+   "winner_at": null,
+   "deposit": null,
+   "monthly_rent": null,
+   "contact": null,
+   "pdf_url": "https://apply.gh.or.kr/sr/sr7155/selectFileDown.do?pbancNo=803&atchFileSn=1607097&atchFileDtlSn=1",
+   "lat": null,
+   "lng": null,
+   "summary": null,
+   "eligibility": null,
+   "uid": "GH:매입임대-803"
+  },
+  {
+   "source": "GH",
+   "external_id": "매입임대-792",
+   "title": "26년 GH 특화형 매입임대주택 입주자 모집 공고(운영기관 : 한지붕협동조합)",
+   "detail_url": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancDetailView.do?pbancNo=792",
+   "house_type": "매입임대",
+   "region_sido": "경기",
+   "region_sigungu": "경기도",
+   "posted_at": "2026-05-15",
+   "apply_start": null,
+   "apply_end": null,
+   "status": "-",
+   "institution": null,
+   "building_type": null,
+   "supply_count": null,
+   "winner_at": null,
+   "deposit": null,
+   "monthly_rent": null,
+   "contact": null,
+   "pdf_url": "https://apply.gh.or.kr/sr/sr7155/selectFileDown.do?pbancNo=792&atchFileSn=1584336&atchFileDtlSn=15",
+   "lat": null,
+   "lng": null,
+   "summary": null,
+   "eligibility": null,
+   "uid": "GH:매입임대-792"
   }
  ]
 }
