@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-25T05:25:42.027733+09:00",
- "count": 111,
+ "generated_at": "2026-08-25T09:35:34.988798+09:00",
+ "count": 112,
  "notices": [
   {
    "source": "LH",
@@ -3278,16 +3278,16 @@
   },
   {
    "source": "GH",
-   "external_id": "임대주택-808",
-   "title": "경기리츠1호 다산진건데시앙 장기전세주택 예비입주자 모집공고",
-   "detail_url": "https://apply.gh.or.kr/sb/sr/sr7150/selectPbancDetailView.do?pbancNo=808",
-   "house_type": "장기전세",
+   "external_id": "매입임대-803",
+   "title": "[추가모집] 26년 GH 특화형 매입임대주택 입주자 추가 모집 공고(운영기관 : 한지붕협동조합)",
+   "detail_url": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancDetailView.do?pbancNo=803",
+   "house_type": "매입임대",
    "region_sido": "경기",
-   "region_sigungu": "남양주시",
-   "posted_at": "2026-08-13",
-   "apply_start": "2026-08-24",
-   "apply_end": "2026-08-26",
-   "status": "접수중",
+   "region_sigungu": "경기도",
+   "posted_at": "2026-07-07",
+   "apply_start": "2026-07-17",
+   "apply_end": "2026-08-02",
+   "status": "-",
    "institution": null,
    "building_type": null,
    "supply_count": null,
@@ -3295,18 +3295,50 @@
    "deposit": null,
    "monthly_rent": null,
    "contact": null,
-   "pdf_url": "https://apply.gh.or.kr/sr/sr7150/selectFileDown.do?pbancNo=808&atchFileSn=1720251&atchFileDtlSn=6&mode=1",
+   "pdf_url": "https://apply.gh.or.kr/sr/sr7155/selectFileDown.do?pbancNo=803&atchFileSn=1607097&atchFileDtlSn=1",
    "lat": null,
    "lng": null,
-   "summary": "경기도 남양주시 다산진건데시앙 장기전세주택 예비입주자를 모집합니다. 무주택세대구성원으로서 일정 소득 및 자산 요건을 충족한 성년자를 대상으로 공급됩니다. 청약 신청은 2026년 8월 24일부터 8월 26일까지 인터넷(GH주택청약센터)으로 접수합니다.",
+   "summary": "경기주택도시공사(GH) Care Hub 특화형 매입임대주택(신혼부부형) 입주자를 추가 모집합니다. 공급 위치는 경기도 의왕시 시청중심로 21(고천동)입니다. 신청 접수는 2026년 7월 17일부터 2026년 8월 2일까지 진행됩니다.",
    "eligibility": {
-    "age": "입주자모집공고일(2026.08.13.) 현재 성년자(단, 자녀가 있는 미성년 세대주 등 예외 허용)",
-    "income": "전년도 도시근로자 가구원수별 가구당 월평균 소득 [1~2순위 100%, 3순위 100% 초과~120% 이하] (단, 1인 가구는 120% 이하, 2인 가구는 110% 이하 등 가구원수 및 자녀 출생일에 따라 완화 기준 적용)",
-    "assets": "총자산가액 41,700만원 이하, 자동차가액 4,542만원 이하 (2023년 3월 28일 이후 출생한 자녀 수에 따라 차등 적용)",
-    "residence": "입주자모집공고일(2026.08.13.) 현재 무주택세대구성원 (세대에 속하는 사람 전체가 무주택이어야 함)",
-    "other": "1세대 1주택 신청 원칙, 신청 순위별 주택청약종합저축 가입 및 납입 횟수 요건 충족 필요"
+    "age": null,
+    "income": "전년도 도시근로자 가구당 월평균 소득의 100% 이하",
+    "assets": "총자산 34,500만원 이하, 자동차 4,542만원 이하",
+    "residence": "입주자모집공고일(2026.07.07.) 현재 무주택세대구성원",
+    "other": "신생아 가구, 지원대상 한부모가족, 한부모 가족, 신혼부부(혼인 7년 이내), 예비신혼부부, 유자녀 혼인가구, 혼인가구 대상"
    },
-   "uid": "GH:임대주택-808"
+   "uid": "GH:매입임대-803"
+  },
+  {
+   "source": "GH",
+   "external_id": "매입임대-792",
+   "title": "26년 GH 특화형 매입임대주택 입주자 모집 공고(운영기관 : 한지붕협동조합)",
+   "detail_url": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancDetailView.do?pbancNo=792",
+   "house_type": "매입임대",
+   "region_sido": "경기",
+   "region_sigungu": "경기도",
+   "posted_at": "2026-05-15",
+   "apply_start": "2026-05-25",
+   "apply_end": "2026-06-12",
+   "status": "-",
+   "institution": null,
+   "building_type": null,
+   "supply_count": null,
+   "winner_at": null,
+   "deposit": null,
+   "monthly_rent": null,
+   "contact": null,
+   "pdf_url": "https://apply.gh.or.kr/sr/sr7155/selectFileDown.do?pbancNo=792&atchFileSn=1584336&atchFileDtlSn=15",
+   "lat": null,
+   "lng": null,
+   "summary": "경기주택도시공사와 한지붕협동조합이 경기도 의왕시 고천동의 특화형 매입임대주택(신혼부부형) 입주자를 모집합니다. 공급 대상은 총 71호의 주거용 오피스텔이며, 무주택세대구성원으로서 소득 및 자산 기준을 충족해야 합니다. 신청 접수는 2026년 5월 25일부터 6월 12일까지 구글 폼 및 이메일을 통해 진행됩니다.",
+   "eligibility": {
+    "age": null,
+    "income": "전년도 도시근로자 가구당 월평균 소득의 100% 이하",
+    "assets": "행복주택 자산기준 충족 (총자산 34,500만원 이하, 자동차 4,542만원 이하)",
+    "residence": "입주자모집공고일(2026.05.15.) 현재 무주택세대구성원",
+    "other": "신생아 가구, 지원대상 한부모가족, 한부모 가족, 신혼부부(혼인 7년 이내), 예비신혼부부, 유자녀 혼인가구(6세 이하 자녀), 혼인가구 대상"
+   },
+   "uid": "GH:매입임대-792"
   }
  ]
 }
