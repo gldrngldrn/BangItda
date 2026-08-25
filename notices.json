@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-25T16:34:26.786012+09:00",
- "count": 115,
+ "generated_at": "2026-08-25T17:28:20.792568+09:00",
+ "count": 116,
  "notices": [
   {
    "source": "LH",
@@ -3413,8 +3413,8 @@
    "region_sido": "경기",
    "region_sigungu": "경기도",
    "posted_at": "2026-07-07",
-   "apply_start": null,
-   "apply_end": null,
+   "apply_start": "2026-07-17",
+   "apply_end": "2026-08-02",
    "status": "-",
    "institution": null,
    "building_type": null,
@@ -3426,9 +3426,47 @@
    "pdf_url": "https://apply-cdn.gh.or.kr/sr/sr7155/selectFileDown.do?pbancNo=803&atchFileSn=1607097&atchFileDtlSn=1&mode=1&v=20260707170543",
    "lat": null,
    "lng": null,
-   "summary": null,
-   "eligibility": null,
+   "summary": "경기도 의왕시 고천동의 GH Care Hub 특화형 매입임대주택(신혼부부형) 입주자를 추가 모집합니다. 무주택세대구성원인 신혼부부, 한부모가족, 신생아 가구 등을 대상으로 공급합니다. 접수 기간은 2026년 7월 17일부터 8월 2일까지입니다.",
+   "eligibility": {
+    "age": null,
+    "income": "전년도 도시근로자 가구당 월평균 소득의 100% 이하",
+    "assets": "총자산 34,500만원 이하, 자동차 4,542만원 이하",
+    "residence": "입주자모집공고일(2026.07.07.) 현재 무주택세대구성원",
+    "other": "신생아 가구, 한부모가족, 신혼부부, 예비신혼부부, 6세 이하 자녀가 있는 혼인가구, 혼인가구"
+   },
    "uid": "GH:매입임대-803"
+  },
+  {
+   "source": "GH",
+   "external_id": "매입임대-792",
+   "title": "26년 GH 특화형 매입임대주택 입주자 모집 공고(운영기관 : 한지붕협동조합)",
+   "detail_url": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancDetailView.do?pbancNo=792",
+   "house_type": "매입임대",
+   "region_sido": "경기",
+   "region_sigungu": "경기도",
+   "posted_at": "2026-05-15",
+   "apply_start": "2026-05-25",
+   "apply_end": "2026-06-12",
+   "status": "-",
+   "institution": null,
+   "building_type": null,
+   "supply_count": null,
+   "winner_at": null,
+   "deposit": null,
+   "monthly_rent": null,
+   "contact": null,
+   "pdf_url": "https://apply-cdn.gh.or.kr/sr/sr7155/selectFileDown.do?pbancNo=792&atchFileSn=1584336&atchFileDtlSn=15&mode=1&v=20260519101945",
+   "lat": null,
+   "lng": null,
+   "summary": "경기주택도시공사와 한지붕협동조합에서 경기도 의왕시 고천동에 위치한 Care Hub 특화형 매입임대주택(신혼부부형) 입주자를 모집합니다. 무주택세대구성원인 신혼부부, 한부모가족, 신생아 가구 등을 대상으로 공급됩니다. 입주 신청은 2026년 5월 25일부터 6월 12일까지 구글폼을 통해 온라인으로 진행됩니다.",
+   "eligibility": {
+    "age": null,
+    "income": "전년도 도시근로자 가구당 월평균 소득의 100% 이하",
+    "assets": "총자산 34,500만원 이하, 자동차 4,542만원 이하",
+    "residence": "입주자모집공고일(2026.05.15.) 현재 무주택세대구성원",
+    "other": "신생아 가구, 지원대상 한부모가족, 한부모가족, 신혼부부, 예비신혼부부, 유자녀 혼인가구, 혼인가구"
+   },
+   "uid": "GH:매입임대-792"
   }
  ]
 }
