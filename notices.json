@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-26T12:42:57.986698+09:00",
- "count": 110,
+ "generated_at": "2026-08-26T13:29:18.182961+09:00",
+ "count": 112,
  "notices": [
   {
    "source": "ETC",
@@ -3269,6 +3269,70 @@
     "other": "중소기업기본법에 따른 중소기업(중견기업 포함). 제외대상: ① 법인 및 대표자 국세, 지방세 체납기업 ② 대표자, 외국인 ③ 주점업 등과 골프장, 다단계 판매업 등. 입주대상: 계약체결 기업체의 내국인 직원에 한함(법인등기부에 등재된 대표이사는 입주 불가)"
    },
    "uid": "GH:임대주택-811"
+  },
+  {
+   "source": "GH",
+   "external_id": "매입임대-803",
+   "title": "[추가모집] 26년 GH 특화형 매입임대주택 입주자 추가 모집 공고(운영기관 : 한지붕협동조합)",
+   "detail_url": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancDetailView.do?pbancNo=803",
+   "house_type": "매입임대",
+   "region_sido": "경기",
+   "region_sigungu": "경기도",
+   "posted_at": "2026-07-07",
+   "apply_start": "2026-07-17",
+   "apply_end": "2026-08-02",
+   "status": "-",
+   "institution": null,
+   "building_type": null,
+   "supply_count": null,
+   "winner_at": null,
+   "deposit": null,
+   "monthly_rent": null,
+   "contact": null,
+   "pdf_url": "https://apply-cdn.gh.or.kr/sr/sr7155/selectFileDown.do?pbancNo=803&atchFileSn=1607097&atchFileDtlSn=1&mode=1&v=20260707170543",
+   "lat": null,
+   "lng": null,
+   "summary": "2026년 GH Care Hub 특화형 매입임대주택(신혼부부형) 입주자를 모집합니다. 공급 대상 주택은 경기도 의왕시 시청중심로 21에 위치해 있습니다. 신청 접수는 2026년 7월 17일부터 8월 2일까지 온라인(구글폼 및 메일)으로 제출 받습니다.",
+   "eligibility": {
+    "age": null,
+    "income": "전년도 도시근로자 가구당 월평균 소득의 100% 이하",
+    "assets": "행복주택 자산기준 충족 (총자산 34,500만원 이하, 자동차 4,542만원 이하)",
+    "residence": "입주자모집공고일(2026.07.07.) 현재 무주택세대구성원",
+    "other": "신생아 가구, 지원대상 한부모가족, 한부모가족, 신혼부부(혼인 7년 이내), 예비신혼부부, 6세 이하 자녀가 있는 혼인가구, 혼인가구 대상"
+   },
+   "uid": "GH:매입임대-803"
+  },
+  {
+   "source": "GH",
+   "external_id": "매입임대-792",
+   "title": "26년 GH 특화형 매입임대주택 입주자 모집 공고(운영기관 : 한지붕협동조합)",
+   "detail_url": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancDetailView.do?pbancNo=792",
+   "house_type": "매입임대",
+   "region_sido": "경기",
+   "region_sigungu": "경기도",
+   "posted_at": "2026-05-15",
+   "apply_start": "2026-05-25",
+   "apply_end": "2026-06-12",
+   "status": "-",
+   "institution": null,
+   "building_type": null,
+   "supply_count": null,
+   "winner_at": null,
+   "deposit": null,
+   "monthly_rent": null,
+   "contact": null,
+   "pdf_url": "https://apply-cdn.gh.or.kr/sr/sr7155/selectFileDown.do?pbancNo=792&atchFileSn=1584336&atchFileDtlSn=15&mode=1&v=20260519101945",
+   "lat": null,
+   "lng": null,
+   "summary": "경기도 의왕시 시청중심로 21에 위치한 GH Care Hub 특화형 매입임대주택(의왕시 신혼부부형) 입주자를 모집합니다. 신청 자격은 무주택세대구성원으로서 신생아 가구, 신혼부부, 한부모가족 등을 대상으로 합니다. 신청 기간은 2026년 5월 25년부터 6월 12일까지입니다.",
+   "eligibility": {
+    "age": null,
+    "income": "전년도 도시근로자 가구당 월평균 소득의 100% 이하",
+    "assets": "총자산 34,500만원 이하, 자동차 4,542만원 이하 (행복주택 자산기준 충족)",
+    "residence": "입주자모집공고일(2026.05.15.) 현재 무주택세대구성원",
+    "other": "신생아 가구, 한부모가족, 신혼부부(혼인 7년 이내), 예비신혼부부, 6세 이하 자녀가 있는 혼인가구 등 대상"
+   },
+   "uid": "GH:매입임대-792"
   }
  ]
 }
