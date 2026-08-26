@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>개인정보처리방침 — 방잇다 (BangItda)</title>
+<meta name="description" content="방잇다(BangItda)의 개인정보처리방침. 구글 캘린더 연동 시 취급하는 정보와 그 범위를 설명합니다.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>개인정보처리방침</h1>
+  <p class="tagline">방잇다 (BangItda) · 시행일 2026년 8월 27일</p>
+</header>
+
+<div class="note">
+  <p>
+    <strong>한 문단 요약.</strong> 방잇다는 이용자를 식별하는 정보를 수집하지도,
+    서버에 보관하지도 않습니다. 계정도 회원가입도 없습니다. 구글 캘린더 연동을
+    켰을 때만 구글 계정의 캘린더 권한을 요청하며, 그 권한은 <strong>이 앱이 직접
+    만든 캘린더</strong>에만 미칩니다. 발급받은 인증 토큰은 이용자 본인의 기기에만
+    저장되고 외부로 전송되지 않습니다.
+  </p>
+</div>
+
+<h2>1. 방잇다가 하는 일</h2>
+
+<p>
+  방잇다는 LH·SH·GH 등이 <strong>공개적으로 게시한</strong> 공공임대주택 모집공고를
+  모아 정리해 보여주는 비영리 개인 프로젝트입니다. 수집 대상은 기관이 웹에 올린
+  공고문과 공공데이터포털 오픈API이며, 이용자 개인에 관한 자료는 다루지 않습니다.
+</p>
+
+<h2>2. 수집하는 정보</h2>
+
+<table>
+  <tr>
+    <th>구분</th>
+    <th>수집 여부</th>
+  </tr>
+  <tr>
+    <td>이름, 이메일, 전화번호, 주소, 생년월일</td>
+    <td>수집하지 않습니다. 회원가입 자체가 없습니다.</td>
+  </tr>
+  <tr>
+    <td>주택 신청 이력, 소득·자산 등 자격 관련 정보</td>
+    <td>수집하지 않습니다. 방잇다는 신청 기능이 없습니다.</td>
+  </tr>
+  <tr>
+    <td>이용 기록, 접속 로그, 광고 식별자</td>
+    <td>수집하지 않습니다. 분석 도구나 광고 SDK를 넣지 않았습니다.</td>
+  </tr>
+  <tr>
+    <td>구글 계정 정보</td>
+    <td>캘린더 연동을 켠 경우에만, 아래 3항의 범위에서 취급합니다.</td>
+  </tr>
+  <tr>
+    <td>관심 지역·조건 설정, 즐겨찾기</td>
+    <td>이용자 기기 안에만 저장됩니다. 외부로 전송되지 않습니다.</td>
+  </tr>
+</table>
+
+<h2>3. 구글 사용자 데이터</h2>
+
+<p>캘린더 연동을 켜면 다음 한 가지 권한만 요청합니다.</p>
+
+<table>
+  <tr><th>요청 권한</th><th>쓰는 이유</th></tr>
+  <tr>
+    <td><code>https://www.googleapis.com/auth/calendar.app.created</code></td>
+    <td>
+      공고 접수 기간을 일정으로 등록하기 위해, 방잇다가 만든 전용 캘린더
+      (<em>방잇다 공고 – 지역명</em>)를 생성하고 그 안의 일정을 추가·수정·삭제합니다.
+    </td>
+  </tr>
+</table>
+
+<p>
+  이 권한의 범위는 구글이 정한 것으로, <strong>이 앱이 직접 만든 캘린더 바깥으로는
+  미치지 않습니다.</strong> 이용자가 원래 쓰던 캘린더의 일정은 목록조차 읽을 수
+  없습니다. 이메일, 연락처, 사진 등 다른 구글 서비스의 데이터는 요청하지 않습니다.
+</p>
+
+<h3>토큰 보관</h3>
+
+<p>
+  구글이 발급한 인증 토큰(액세스 토큰·갱신 토큰)은 <strong>이용자 본인의 기기에만</strong>
+  저장됩니다. 개발자가 운영하는 서버는 존재하지 않으며, 토큰이 기기 밖으로
+  전송되는 경로도 없습니다. 캘린더 API 호출은 이용자의 기기에서 구글 서버로
+  직접 이루어집니다.
+</p>
+
+<h3>제한적 사용(Limited Use)</h3>
+
+<p>
+  방잇다가 구글 API로부터 받은 정보의 사용 및 전송은
+  <a href="https://developers.google.com/terms/api-services-user-data-policy">Google API
+  Services User Data Policy</a>(제한적 사용 요건 포함)를 따릅니다. 해당 데이터를
+  광고 목적으로 쓰거나, 제3자에게 판매·양도하거나, 사람이 열람하도록 하지 않습니다.
+</p>
+
+<h2>4. 알림</h2>
+
+<p>
+  새 공고 알림은 Firebase Cloud Messaging의 <strong>주제(topic) 구독</strong> 방식으로
+  보냅니다. 기기가 <code>region-seoul</code> 같은 주제를 구독하면 그 주제로 발송된
+  알림을 받는 구조로, 개발자 쪽에서 기기별 토큰이나 구독자 명단을 수집·보관하지
+  않습니다. 누가 어떤 알림을 받았는지 알 수 있는 수단이 없습니다.
+</p>
+
+<h2>5. 제3자 제공</h2>
+
+<p>
+  이용자의 정보를 제3자에게 제공하거나 판매하지 않습니다. 애초에 제공할 정보를
+  보유하고 있지 않습니다. 서비스 운영을 위해 구글(캘린더 API, Firebase)과
+  깃허브(공고 데이터 배포)의 기반 서비스를 이용하며, 각 사업자의 방침이 적용됩니다.
+</p>
+
+<h2>6. 보관 기간과 삭제</h2>
+
+<ul>
+  <li><strong>캘린더 연동 해제</strong> —
+      <a href="https://myaccount.google.com/permissions">구글 계정 권한 페이지</a>에서
+      방잇다의 접근 권한을 철회하면 즉시 효력이 사라집니다.</li>
+  <li><strong>일정 삭제</strong> — 방잇다가 만든 캘린더를 구글 캘린더에서 지우면
+      그 안의 일정도 함께 사라집니다.</li>
+  <li><strong>기기 내 데이터</strong> — 앱을 삭제하면 저장된 토큰과 설정이 함께
+      지워집니다.</li>
+</ul>
+
+<p>
+  개발자가 따로 보관하는 이용자 데이터가 없으므로, 삭제를 요청할 대상도 없습니다.
+</p>
+
+<h2>7. 아동</h2>
+
+<p>
+  방잇다는 만 14세 미만 아동을 대상으로 하지 않으며, 아동의 정보를 의도적으로
+  수집하지 않습니다.
+</p>
+
+<h2>8. 방침 변경</h2>
+
+<p>
+  내용이 바뀌면 이 페이지를 갱신하고 상단의 시행일을 고칩니다. 변경 이력은
+  <a href="https://github.com/gldrngldrn/BangItda">공개 저장소</a>의 커밋 기록으로
+  확인할 수 있습니다.
+</p>
+
+<h2>9. 문의</h2>
+
+<p>
+  개인정보 처리에 관한 문의는
+  <a href="https://github.com/gldrngldrn/BangItda/issues">GitHub Issues</a>로
+  남겨주세요. 별도의 문의용 이메일 주소는 운영하지 않습니다.
+</p>
+
+<p>
+  공개된 곳이므로 <strong>본문에 개인정보를 적지 마시기 바랍니다.</strong>
+  방잇다는 이용자 정보를 보유하지 않으므로, 신원 확인이 필요한 문의는 애초에
+  발생하지 않습니다.
+</p>
+
+<footer>
+  <a href="index.html">홈</a>
+  <a href="terms.html">서비스 약관</a>
+  <a href="https://github.com/gldrngldrn/BangItda">공고 데이터 저장소</a>
+</footer>
+
+</body>
+</html>
