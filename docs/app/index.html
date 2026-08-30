@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>방잇다 — 공공임대 모집공고</title>
+<meta name="description" content="LH·SH·GH 등 공공임대주택 모집공고를 지역·유형별로 모아 봅니다.">
+<meta name="color-scheme" content="light dark">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="top-row">
+    <h1><a href="../">방잇다</a></h1>
+    <p class="freshness" id="freshness" aria-live="polite">불러오는 중…</p>
+  </div>
+
+  <div class="search-row">
+    <label class="sr-only" for="q">공고 검색</label>
+    <input type="search" id="q" placeholder="단지명·지역·공고 제목 검색" autocomplete="off">
+    <button type="button" id="reset" class="ghost" hidden>조건 초기화</button>
+  </div>
+
+  <div class="filters" id="filters"></div>
+
+  <div class="toolbar">
+    <div class="toggles">
+      <button type="button" class="chip toggle" id="onlyBookmarked" aria-pressed="false">
+        <span aria-hidden="true">★</span> 즐겨찾기만 <span class="count" id="bmCount"></span>
+      </button>
+      <button type="button" class="chip toggle" id="hideNoPrice" aria-pressed="false">
+        임대료 있는 공고만
+      </button>
+    </div>
+    <label class="sort">
+      정렬
+      <select id="sort">
+        <option value="deadline">마감 임박순</option>
+        <option value="posted">공고일 최신순</option>
+        <option value="start">접수 시작일순</option>
+        <option value="rent">월임대료 낮은순</option>
+      </select>
+    </label>
+  </div>
+
+  <p class="result-line" id="resultLine" aria-live="polite"></p>
+</header>
+
+<main id="list" class="list"></main>
+
+<p class="empty" id="empty" hidden>
+  조건에 맞는 공고가 없습니다. 필터를 줄여보세요.
+</p>
+
+<footer class="foot">
+  <p class="disclaimer">
+    참고용입니다. 자동 수집 과정에서 내용이 누락되거나 잘못 읽힐 수 있으니,
+    신청 전에는 반드시 기관 공고 원문을 확인하세요.
+  </p>
+  <p>
+    <a href="../">소개</a>
+    <a href="../privacy.html">개인정보처리방침</a>
+    <a href="../terms.html">서비스 약관</a>
+    <a href="https://github.com/gldrngldrn/BangItda/issues">오류 신고</a>
+  </p>
+</footer>
+
+<dialog id="detail" class="detail">
+  <div class="detail-inner" id="detailBody"></div>
+  <form method="dialog" class="detail-close">
+    <button class="ghost">닫기</button>
+  </form>
+</dialog>
+
+<script src="app.js"></script>
+</body>
+</html>
