@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-02T00:55:59.884586+09:00",
- "count": 109,
+ "generated_at": "2026-09-02T04:12:39.538604+09:00",
+ "count": 108,
  "notices": [
   {
    "source": "LH",
@@ -3433,32 +3433,6 @@
     "other": "신생아 가구, 지원대상 한부모가족, 한부모 가족, 신혼부부(혼인 7년 이내), 예비신혼부부, 6세 이하 자녀가 있는 유자녀 혼인가구 및 기타 혼인가구 대상"
    },
    "uid": "GH:매입임대-812"
-  },
-  {
-   "source": "GH",
-   "external_id": "매입임대-792",
-   "title": "26년 GH 특화형 매입임대주택 입주자 모집 공고(운영기관 : 한지붕협동조합)",
-   "detail_url": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancDetailView.do?pbancNo=792",
-   "house_type": "매입임대",
-   "region_sido": "경기",
-   "region_sigungu": "경기도",
-   "posted_at": "2026-05-15",
-   "apply_start": null,
-   "apply_end": null,
-   "status": "-",
-   "institution": null,
-   "building_type": null,
-   "supply_count": null,
-   "winner_at": null,
-   "deposit": null,
-   "monthly_rent": null,
-   "contact": null,
-   "pdf_url": "https://apply-cdn.gh.or.kr/sr/sr7155/selectFileDown.do?pbancNo=792&atchFileSn=1584336&atchFileDtlSn=15&mode=1&v=20260519101945",
-   "lat": null,
-   "lng": null,
-   "summary": null,
-   "eligibility": null,
-   "uid": "GH:매입임대-792"
   }
  ]
 }
