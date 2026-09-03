@@ -405,11 +405,17 @@
    "deposit": null,
    "monthly_rent": null,
    "contact": "LH 콜센터 : 1600-1004 (평일 : 09:00 ~ 18:00)",
-   "pdf_url": null,
+   "pdf_url": "https://www.myhome.go.kr/hws/com/fms/cvplFileDownload.do?atchFileId=1a065eb9ed125&fileSn=1",
    "lat": null,
    "lng": null,
-   "summary": null,
-   "eligibility": null,
+   "summary": "LH 강원지역본부에서 신혼·신생아 매입임대주택Ⅱ(전세형) 예비입주자 총 49호를 모집합니다. 공급 대상은 강원특별자치도 내 지정된 모집단위 주택군이며, 시중 시세의 70~80% 수준 준전세로 공급됩니다. 청약 신청은 2026년 9월 14일부터 9월 16일까지 LH청약플러스를 통해 온라인으로 진행됩니다.",
+   "eligibility": {
+    "age": null,
+    "income": "전년도 도시근로자 가구원수별 월평균소득의 130% 이하 (본인 및 배우자 모두 소득이 있는 경우 200% 이하)",
+    "assets": "총자산 36,200만원 이하 (2023.03.28 이후 출산 자녀 수에 따라 최대 43,100만원 이하)",
+    "residence": "공고일(2026.09.03.) 현재 무주택세대구성원",
+    "other": "신혼부부, 예비신혼부부, 한부모가족, 지원대상 한부모가족, 유자녀 혼인가구, 신생아 가구, 혼인가구 요건 충족자"
+   },
    "uid": "LH:21145"
   },
   {
@@ -431,11 +437,17 @@
    "deposit": 9628000,
    "monthly_rent": 150570,
    "contact": "LH 콜센터 : 1600-1004 (평일 : 09:00 ~ 18:00)",
-   "pdf_url": null,
+   "pdf_url": "https://www.myhome.go.kr/hws/com/fms/cvplFileDownload.do?atchFileId=1a064f1232372&fileSn=1",
    "lat": null,
    "lng": null,
-   "summary": null,
-   "eligibility": null,
+   "summary": "LH에서 전북 남원시 노송로 1255-9에 위치한 남원노암단지 50년공공임대주택 예비입주자를 모집합니다. 신청 자격은 모집공고일 현재 성년자인 무주택세대구성원입니다. 청약 신청은 2026년 9월 14일부터 9월 15일까지 진행됩니다.",
+   "eligibility": {
+    "age": "입주자모집공고일(26.09.03) 현재 성년자 (단, 자녀가 있는 미성년 세대주 등 예외 기준에 해당하는 경우 미성년자도 신청 가능)",
+    "income": null,
+    "assets": null,
+    "residence": "입주자모집공고일 현재 무주택세대구성원 (동일 순위 경쟁 시 해당 주택건설지역인 남원시 거주자에게 우선 공급)",
+    "other": "1세대 1주택 신청 원칙, 과거 공공임대주택 불법양도·전대 행위로 적발된 후 4년이 경과되지 않은 자는 입주자로 선정 불가"
+   },
    "uid": "LH:21143"
   },
   {
@@ -457,11 +469,17 @@
    "deposit": 36700000,
    "monthly_rent": 356210,
    "contact": "LH 콜센터 : 1600-1004 (평일 : 09:00 ~ 18:00)",
-   "pdf_url": null,
+   "pdf_url": "https://www.myhome.go.kr/hws/com/fms/cvplFileDownload.do?atchFileId=1a064e23a6e68&fileSn=1",
    "lat": null,
    "lng": null,
-   "summary": null,
-   "eligibility": null,
+   "summary": "LH에서 부산광역시 북구 상학로 36에 위치한 부산만덕5지구 2블록(e편한세상 금정산) 10년 분양전환 공공임대주택 예비입주자 180세대를 모집합니다. 모집공고일(2026.09.03.) 현재 부산광역시, 울산광역시, 경상남도에 거주하는 만 19세 이상 무주택세대구성원이 신청 대상입니다. 청약 신청은 2026년 9월 29일부터 9월 30일까지 LH 청약플러스를 통해 비대면(인터넷/모바일)으로 진행됩니다.",
+   "eligibility": {
+    "age": "입주자모집 공고일(2026.09.03.) 현재 만19세 이상의 성년자",
+    "income": "소득기준 충족여부와 상관없이 청약가능",
+    "assets": "자산기준 충족여부와 상관없이 청약가능",
+    "residence": "입주자모집 공고일(2026.09.03.) 현재 부산광역시, 울산광역시, 경상남도에 거주(주민등록표등본 기준)하는 무주택세대구성원 (1세대 1주택 기준)",
+    "other": "청약저축 가입여부, 과거당첨 사실여부 상관없이 신청 가능 / 모집 단지의 기계약자 및 그 세대구성원은 신청 불가능 / 외국인 신청 불가"
+   },
    "uid": "LH:21141"
   },
   {
@@ -1015,11 +1033,17 @@
    "deposit": 18000000,
    "monthly_rent": 90000,
    "contact": null,
-   "pdf_url": null,
+   "pdf_url": "https://www.myhome.go.kr/hws/com/fms/cvplFileDownload.do?atchFileId=1a064d9202885&fileSn=1",
    "lat": null,
    "lng": null,
-   "summary": null,
-   "eligibility": null,
+   "summary": "안산도시공사에서 경기도 안산시 단원구 선부동 행복주택의 예비입주자를 모집합니다. 모집 대상은 무주택세대구성원인 주거급여수급자입니다. 청약 접수는 2026년 9월 14일부터 9월 18일까지 인터넷 및 현장에서 진행됩니다.",
+   "eligibility": {
+    "age": "성년자(자녀를 부양하거나 직계존속의 사망, 실종신고 및 행방불명 등으로 형제자매를 부양하여야 하는 세대주인 미성년자를 포함)",
+    "income": null,
+    "assets": null,
+    "residence": "무주택세대구성원",
+    "other": "「주거급여법」 제2조 제2호 및 제3호에 따른 수급권자 또는 수급자 (외국인 신청 불가, 1세대 1주택 신청 가능)"
+   },
    "uid": "ETC:21111"
   },
   {
@@ -1393,11 +1417,17 @@
    "deposit": null,
    "monthly_rent": null,
    "contact": "LH 콜센터 : 1600-1004 (평일 : 09:00 ~ 18:00)",
-   "pdf_url": null,
+   "pdf_url": "https://www.myhome.go.kr/hws/com/fms/cvplFileDownload.do?atchFileId=1a0425e51a89&fileSn=1",
    "lat": null,
    "lng": null,
-   "summary": null,
-   "eligibility": null,
+   "summary": "LH 인천지역본부에서 인천광역시 및 부천시 지역 신혼·신생아 매입임대주택Ⅱ(전세형) 예비입주자를 모집합니다. 무주택세대구성원인 신혼부부, 신생아가구 등을 대상으로 시세 70~80% 수준의 준전세로 공급됩니다. 청약 신청은 2026년 9월 7일부터 9월 9일까지 LH청약플러스를 통해 온라인으로 진행됩니다.",
+   "eligibility": {
+    "age": null,
+    "income": "전년도 도시근로자 가구원수별 월평균소득의 130% 이하 (본인 및 배우자 모두 소득이 있는 경우 200% 이하)",
+    "assets": "임대의무기간이 6년인 분양전환 공공임대주택 자산기준 충족 - 총자산 36,200만원 이하 ('23.03.28 이후 출산 자녀 수에 따라 최대 43,100만원 이하)",
+    "residence": "공고일 현재 무주택세대구성원",
+    "other": "신혼부부(혼인 7년 이내), 예비신혼부부, 한부모가족(6세 이하 자녀), 지원대상 한부모가족, 유자녀 혼인가구, 신생아 가구(2년 이내 출산), 혼인가구"
+   },
    "uid": "LH:21094"
   },
   {
