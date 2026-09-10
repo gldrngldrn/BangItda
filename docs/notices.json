@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T00:41:30.817352+09:00",
+ "generated_at": "2026-09-11T03:54:03.843523+09:00",
  "count": 95,
  "notices": [
   {
@@ -2963,7 +2963,7 @@
    "deposit": null,
    "monthly_rent": null,
    "contact": null,
-   "pdf_url": null,
+   "pdf_url": "https://apply-cdn.gh.or.kr/sr/sr7155/selectFileDown.do?pbancNo=803&atchFileSn=1607097&atchFileDtlSn=1&mode=1&v=20260707170543",
    "lat": null,
    "lng": null,
    "summary": null,
