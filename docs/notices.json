@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-12T07:12:03.515769+09:00",
- "count": 83,
+ "generated_at": "2026-09-12T23:48:09.618013+09:00",
+ "count": 81,
  "notices": [
   {
    "source": "LH",
@@ -2424,32 +2424,6 @@
   },
   {
    "source": "SH",
-   "external_id": "309807",
-   "title": "[청년형] 특화형 매입임대주택 입주자 모집 공고(운영기관 : 한지붕 협동조합)",
-   "detail_url": "https://www.i-sh.co.kr/main/lay2/program/S1T294C297/www/brd/m_247/view.do?seq=309807&multi_itm_seq=2",
-   "house_type": null,
-   "region_sido": "서울",
-   "region_sigungu": null,
-   "posted_at": "2026-09-07",
-   "apply_start": null,
-   "apply_end": null,
-   "status": null,
-   "institution": "서울주택도시개발공사",
-   "building_type": null,
-   "supply_count": null,
-   "winner_at": null,
-   "deposit": null,
-   "monthly_rent": null,
-   "contact": null,
-   "pdf_url": "https://www.i-sh.co.kr/main/com/file/innoFD.do?brdId=GS0401&seq=309807&fileTp=A&fileSeq=2",
-   "lat": null,
-   "lng": null,
-   "summary": null,
-   "eligibility": null,
-   "uid": "SH:309807"
-  },
-  {
-   "source": "SH",
    "external_id": "309717",
    "title": "[토지지원 사회주택]유니버설디자인하우스_창동 입주자 모집 공고",
    "detail_url": "https://www.i-sh.co.kr/main/lay2/program/S1T294C297/www/brd/m_247/view.do?seq=309717&multi_itm_seq=2",
@@ -2607,32 +2581,6 @@
     "other": "신생아 가구, 지원대상 한부모가족, 한부모 가족, 신혼부부(혼인 7년 이내), 예비신혼부부, 6세 이하 자녀가 있는 유자녀 혼인가구 및 기타 혼인가구 대상"
    },
    "uid": "GH:매입임대-812"
-  },
-  {
-   "source": "GH",
-   "external_id": "매입임대-792",
-   "title": "26년 GH 특화형 매입임대주택 입주자 모집 공고(운영기관 : 한지붕협동조합)",
-   "detail_url": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancDetailView.do?pbancNo=792",
-   "house_type": "매입임대",
-   "region_sido": "경기",
-   "region_sigungu": "경기도",
-   "posted_at": "2026-05-15",
-   "apply_start": null,
-   "apply_end": null,
-   "status": "-",
-   "institution": null,
-   "building_type": null,
-   "supply_count": null,
-   "winner_at": null,
-   "deposit": null,
-   "monthly_rent": null,
-   "contact": null,
-   "pdf_url": "https://apply-cdn.gh.or.kr/sr/sr7155/selectFileDown.do?pbancNo=792&atchFileSn=1584336&atchFileDtlSn=15&mode=1&v=20260519101945",
-   "lat": null,
-   "lng": null,
-   "summary": null,
-   "eligibility": null,
-   "uid": "GH:매입임대-792"
   }
  ]
 }
