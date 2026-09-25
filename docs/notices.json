@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-25T07:55:04.037242+09:00",
- "count": 126,
+ "generated_at": "2026-09-25T11:08:59.470443+09:00",
+ "count": 125,
  "notices": [
   {
    "source": "GBDC",
@@ -3279,32 +3279,6 @@
     "other": null
    },
    "uid": "SH:310343"
-  },
-  {
-   "source": "SH",
-   "external_id": "310300",
-   "title": "[토지임대부 사회주택] 옥류서원 입주자 모집 공고문",
-   "detail_url": "https://www.i-sh.co.kr/main/lay2/program/S1T294C297/www/brd/m_247/view.do?seq=310300&multi_itm_seq=2",
-   "house_type": null,
-   "region_sido": "서울",
-   "region_sigungu": null,
-   "posted_at": "2026-09-15",
-   "apply_start": null,
-   "apply_end": null,
-   "status": null,
-   "institution": "서울주택도시개발공사",
-   "building_type": null,
-   "supply_count": null,
-   "winner_at": null,
-   "deposit": null,
-   "monthly_rent": null,
-   "contact": null,
-   "pdf_url": "https://www.i-sh.co.kr/main/com/file/innoFD.do?brdId=GS0401&seq=310300&fileTp=A&fileSeq=3",
-   "lat": null,
-   "lng": null,
-   "summary": null,
-   "eligibility": null,
-   "uid": "SH:310300"
   },
   {
    "source": "SH",
