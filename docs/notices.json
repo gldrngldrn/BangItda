@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T17:00:57.089256+09:00",
+ "generated_at": "2026-10-20T22:20:17.575780+09:00",
  "count": 76,
  "notices": [
   {
@@ -2013,38 +2013,6 @@
    "uid": "SH:311349"
   },
   {
-   "source": "SH",
-   "external_id": "311087",
-   "title": "강동구 청년창업가,예술인주택(수요자맞춤형) 잔여세대 모집 공고",
-   "detail_url": "https://www.i-sh.co.kr/main/lay2/program/S1T294C297/www/brd/m_247/view.do?seq=311087&multi_itm_seq=2",
-   "house_type": null,
-   "region_sido": "서울",
-   "region_sigungu": null,
-   "posted_at": "2026-10-08",
-   "apply_start": "2026-10-08",
-   "apply_end": "2026-10-22",
-   "status": null,
-   "institution": "서울주택도시개발공사",
-   "building_type": null,
-   "supply_count": null,
-   "winner_at": null,
-   "deposit": null,
-   "monthly_rent": null,
-   "contact": null,
-   "pdf_url": "https://www.i-sh.co.kr/main/com/file/innoFD.do?brdId=GS0401&seq=311087&fileTp=A&fileSeq=1",
-   "lat": null,
-   "lng": null,
-   "summary": "서울특별시 강동구에서 청년 창업가·예술인·크리에이터를 위한 수요자 맞춤형 공공임대주택 37호실의 입주자를 모집합니다. 대상 주택은 암사도전숙 등 7개소로 자격 충족 시 최장 10년까지 거주할 수 있습니다. 입주 신청은 2026년 10월 8일부터 10월 22일 15시까지 이메일로 접수 받습니다.",
-   "eligibility": {
-    "age": "19세 이상 ~ 39세 이하(1986. 10. 9.~ 2007. 10. 8. 출생) 청년",
-    "income": "전년도 도시근로자 가구원수별 가구당 월평균소득 70% 이하 (50% 이하 50점, 50% 초과~70% 이하 30점 차등 배점)",
-    "assets": "총 자산기준 2억4천5백만원 이하 (도시근로자 월평균 소득 50%만 해당), 자동차가액기준 4,542만원 이하 (도시근로자 월평균 소득 50%만 해당)",
-    "residence": "주민등록등본 상 무주택세대 구성원",
-    "other": "청년 창업가(개인사업자), 문화예술 분야 종사자/창업가, 유튜브 크리에이터(공고일 전 최소 3개월 이상, 월 4개 이상 영상 업로드) 분야별 요건 충족자 및 공동체주택 의무사항 동의자"
-   },
-   "uid": "SH:311087"
-  },
-  {
    "source": "GH",
    "external_id": "임대주택-839",
    "title": "'26년 하반기 경기행복주택 예비입주자 추가모집 공고",
@@ -2133,6 +2101,32 @@
    "summary": null,
    "eligibility": null,
    "uid": "GH:매입임대-823"
+  },
+  {
+   "source": "GH",
+   "external_id": "매입임대-812",
+   "title": "[추가모집] 26년 GH 특화형 매입임대주택 입주자 추가 모집 공고(운영기관 : 한지붕협동조합)",
+   "detail_url": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancDetailView.do?pbancNo=812",
+   "house_type": "매입임대",
+   "region_sido": "경기",
+   "region_sigungu": "경기도",
+   "posted_at": "2026-08-21",
+   "apply_start": null,
+   "apply_end": null,
+   "status": "-",
+   "institution": null,
+   "building_type": null,
+   "supply_count": null,
+   "winner_at": null,
+   "deposit": null,
+   "monthly_rent": null,
+   "contact": null,
+   "pdf_url": "https://apply-cdn.gh.or.kr/sr/sr7155/selectFileDown.do?pbancNo=812&atchFileSn=1723386&atchFileDtlSn=1&mode=1&v=20260821094455",
+   "lat": null,
+   "lng": null,
+   "summary": null,
+   "eligibility": null,
+   "uid": "GH:매입임대-812"
   }
  ]
 }
