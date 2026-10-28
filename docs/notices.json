@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T02:49:02.743914+09:00",
- "count": 77,
+ "generated_at": "2026-10-29T08:47:21.379571+09:00",
+ "count": 76,
  "notices": [
   {
    "source": "LH",
@@ -2139,32 +2139,6 @@
    "summary": null,
    "eligibility": null,
    "uid": "GH:매입임대-823"
-  },
-  {
-   "source": "GH",
-   "external_id": "매입임대-792",
-   "title": "26년 GH 특화형 매입임대주택 입주자 모집 공고(운영기관 : 한지붕협동조합)",
-   "detail_url": "https://apply.gh.or.kr/sb/sr/sr7155/selectPbancDetailView.do?pbancNo=792",
-   "house_type": "매입임대",
-   "region_sido": "경기",
-   "region_sigungu": "경기도",
-   "posted_at": "2026-05-15",
-   "apply_start": null,
-   "apply_end": null,
-   "status": "-",
-   "institution": null,
-   "building_type": null,
-   "supply_count": null,
-   "winner_at": null,
-   "deposit": null,
-   "monthly_rent": null,
-   "contact": null,
-   "pdf_url": null,
-   "lat": null,
-   "lng": null,
-   "summary": null,
-   "eligibility": null,
-   "uid": "GH:매입임대-792"
   }
  ]
 }
