@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-02T19:18:26.675935+09:00",
- "count": 77,
+ "generated_at": "2026-11-03T06:15:30.319447+09:00",
+ "count": 76,
  "notices": [
   {
    "source": "LH",
@@ -2023,38 +2023,6 @@
     "other": "혼인기간 7년 이내 신혼부부, 입주일 전일까지 혼인신고 예정인 예비신혼부부, 만6세 이하 자녀가 있는 한부모가족 중 하나에 해당"
    },
    "uid": "SH:311965"
-  },
-  {
-   "source": "SH",
-   "external_id": "311987",
-   "title": "[토지지원 사회주택]유니버설디자인하우스_장안 입주자 모집 공고",
-   "detail_url": "https://www.i-sh.co.kr/main/lay2/program/S1T294C297/www/brd/m_247/view.do?seq=311987&multi_itm_seq=2",
-   "house_type": null,
-   "region_sido": "서울",
-   "region_sigungu": null,
-   "posted_at": "2026-10-26",
-   "apply_start": "2026-10-26",
-   "apply_end": "2026-11-02",
-   "status": null,
-   "institution": "서울주택도시개발공사",
-   "building_type": null,
-   "supply_count": null,
-   "winner_at": null,
-   "deposit": null,
-   "monthly_rent": null,
-   "contact": null,
-   "pdf_url": "https://www.i-sh.co.kr/main/com/file/innoFD.do?brdId=GS0401&seq=311987&fileTp=A&fileSeq=1",
-   "lat": null,
-   "lng": null,
-   "summary": "서울특별시 동대문구 장안동에 위치한 유니버설디자인하우스 장안 공공임대주택 입주자를 모집합니다. 모집공고일(2026.10.13.) 기준 서울시 거주 또는 서울 소재 학교·직장에 재학·재직 중인 무주택자를 대상으로 합니다. 입주 신청은 2026년 10월 26일부터 11월 2일까지 접수받습니다.",
-   "eligibility": {
-    "age": "1인가구의 경우 공고일 기준 만 19세 이상부터 입주가 가능합니다. (청년: 만 19세 이상 ~ 만 39세 이하 미혼)",
-    "income": "무주택자로 전년도 도시근로자 가구원수별 가구당 월평균소득의 120% 이하에 해당하는 자",
-    "assets": "청년: 2억5,400만 원 이하 / 신혼부부, 고령자, 일반 1인 가구: 3억3,700만 원 이하 / 자동차가액: 4,563만 원 이하",
-    "residence": "모집공고일(2026.10.13.) 현재 서울시에 거주하는 무주택자 (서울시에 거주하지 않지만 서울시 위치 학교/직장을 다닐 경우 예비서울시민 자격으로 신청 가능)",
-    "other": "예비 신혼부부 기준: 임대주택 입주일 전일까지 혼인신고 예정인 사람. 신혼부부 기준: 공고일 현재 혼인신고일로부터 7년 이내."
-   },
-   "uid": "SH:311987"
   },
   {
    "source": "SH",
