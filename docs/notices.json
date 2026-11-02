@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-02T08:19:08.725121+09:00",
- "count": 73,
+ "generated_at": "2026-11-02T11:58:15.080286+09:00",
+ "count": 74,
  "notices": [
   {
    "source": "LH",
@@ -1689,6 +1689,38 @@
    "summary": null,
    "eligibility": null,
    "uid": "CBDC:18430"
+  },
+  {
+   "source": "SH",
+   "external_id": "312601",
+   "title": "2027년 양천영등포주거안심종합센터 희망돌보미(사무지원)모집공고",
+   "detail_url": "https://www.i-sh.co.kr/main/lay2/program/S1T294C297/www/brd/m_247/view.do?seq=312601&multi_itm_seq=2",
+   "house_type": null,
+   "region_sido": "서울",
+   "region_sigungu": null,
+   "posted_at": "2026-11-02",
+   "apply_start": "2026-11-03",
+   "apply_end": "2026-11-13",
+   "status": null,
+   "institution": "서울주택도시개발공사",
+   "building_type": null,
+   "supply_count": null,
+   "winner_at": null,
+   "deposit": null,
+   "monthly_rent": null,
+   "contact": null,
+   "pdf_url": "https://www.i-sh.co.kr/main/com/file/innoFD.do?brdId=YCGS01&seq=312601&fileTp=A&fileSeq=2",
+   "lat": null,
+   "lng": null,
+   "summary": "서울주택도시개발공사 양천영등포주거안심종합센터에서 희망돌보미(사무지원) 참여자 10명을 모집합니다. 임대주택 거주 입주민 및 지역 내 취약계층을 대상으로 하며, 접수는 2026년 11월 13일까지 센터에 직접 방문하여 제출해야 합니다.",
+   "eligibility": {
+    "age": null,
+    "income": null,
+    "assets": null,
+    "residence": "서울주택도시개발공사 임대주택 거주 입주민(성뒤마을 임시이주 세대 포함) 또는 주민등록상 거주지가 신청·접수하는 지역 센터 관할 자치구인 자",
+    "other": "1세대 1인 신청 (다른 기관 공공근로 참여자, 장기요양보험 등급 판정자(1~5등급), 기타 채용권자가 근로 불가하다고 판단한 자는 채용대상에서 제외)"
+   },
+   "uid": "SH:312601"
   },
   {
    "source": "SH",
