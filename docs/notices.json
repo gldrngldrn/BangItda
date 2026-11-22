@@ -437,7 +437,7 @@
    "deposit": 16339000,
    "monthly_rent": 108910,
    "contact": "LH 콜센터 : 1600-1004 (평일 : 09:00 ~ 18:00)",
-   "pdf_url": null,
+   "pdf_url": "https://www.myhome.go.kr/hws/com/fms/cvplFileDownload.do?atchFileId=1a1e759d17317&fileSn=1",
    "lat": null,
    "lng": null,
    "summary": null,
@@ -645,11 +645,17 @@
    "deposit": 11825000,
    "monthly_rent": 82480,
    "contact": "LH 콜센터 : 1600-1004 (평일 : 09:00 ~ 18:00)",
-   "pdf_url": null,
+   "pdf_url": "https://www.myhome.go.kr/hws/com/fms/cvplFileDownload.do?atchFileId=1a1e3baaf6132&fileSn=1",
    "lat": null,
    "lng": null,
-   "summary": null,
-   "eligibility": null,
+   "summary": "LH 전북지역본부에서 전북 장수군에 위치한 장수북동 국민임대주택 예비입주자를 모집합니다. 인터넷·모바일 청약은 2026년 11월 24일부터 11월 26일까지, 현장접수는 11월 25일에 진행됩니다.",
+   "eligibility": {
+    "age": "입주자모집공고일(2026.11.16.) 현재 성년자 (「민법」상 미성년자(19세 미만)는 공급 신청할 수 없으나 자녀가 있는 미성년 세대주 등 일부 예외 있음)",
+    "income": "2025년도 도시근로자 가구원수별 가구당 월평균 소득 기준 충족 (1인 가구 70% 이하 2,669,354원, 2인 가구 70% 이하 4,106,389원, 3인 가구 70% 이하 5,717,900원 등, 가구원수 및 출산자녀 수에 따른 가산 적용)",
+    "assets": "세대구성원 전원이 보유하고 있는 총자산가액 합산기준 345백만원 이하, 자동차가액 4,542만원 이하 (출산자녀 수에 따라 가산 적용)",
+    "residence": "입주자모집공고일(2026.11.16.) 현재 무주택세대구성원(세대에 속하는 사람 전체가 무주택인 세대의 구성원)",
+    "other": "과거 공공임대주택 임차인으로서 불법양도, 전대 행위로 적발된 후 4년이 경과되지 않은 경우 신청 불가, 외국인 신청 불가"
+   },
    "uid": "LH:21571"
   },
   {
@@ -723,7 +729,7 @@
    "deposit": 62140000,
    "monthly_rent": 355090,
    "contact": "LH 콜센터 : 1600-1004 (평일 : 09:00 ~ 18:00)",
-   "pdf_url": null,
+   "pdf_url": "https://www.myhome.go.kr/hws/com/fms/cvplFileDownload.do?atchFileId=1a1e38e70c92&fileSn=1",
    "lat": null,
    "lng": null,
    "summary": null,
@@ -749,7 +755,7 @@
    "deposit": 52352000,
    "monthly_rent": 507330,
    "contact": "LH 콜센터 : 1600-1004 (평일 : 09:00 ~ 18:00)",
-   "pdf_url": null,
+   "pdf_url": "https://www.myhome.go.kr/hws/com/fms/cvplFileDownload.do?atchFileId=1a1e385fea388&fileSn=1",
    "lat": null,
    "lng": null,
    "summary": null,
@@ -983,11 +989,17 @@
    "deposit": 10891000,
    "monthly_rent": 85750,
    "contact": "LH 콜센터 : 1600-1004 (평일 : 09:00 ~ 18:00)",
-   "pdf_url": null,
+   "pdf_url": "https://www.myhome.go.kr/hws/com/fms/cvplFileDownload.do?atchFileId=1a1e3137e2b12&fileSn=1",
    "lat": null,
    "lng": null,
-   "summary": null,
-   "eligibility": null,
+   "summary": "전남 장성군 국민임대주택(장성영천2, 장성삼계, 장성수산 단지)의 예비입주자를 모집합니다. 청약 신청은 2026년 11월 25일부터 11월 26일까지 인터넷 및 모바일(LH청약플러스)을 통해 진행됩니다. 예비입주자 당첨 발표는 2027년 3월 25일로 예정되어 있습니다.",
+   "eligibility": {
+    "age": "「민법」상 미성년자(19세 미만)는 공급 신청할 수 없습니다. (단, 자녀가 있는 미성년 세대주 등 예외 처리에 해당하는 경우 미성년자도 가능)",
+    "income": "2025년도 도시근로자 가구원수별 가구당 월평균 소득 70% 이하 (1인 가구 20%p 가산, 2인 가구 10%p 가산 적용)",
+    "assets": "세대구성원 전원이 보유하고 있는 총자산가액 합산기준 ( 345 )백만원 이하, 세대구성원 전원이 보유하고 있는 개별 자동차가액 ( 4,542 )만원 이하",
+    "residence": "입주자모집공고일(2026.11.16.) 현재 무주택세대구성원(세대에 속하는 사람 전체가 무주택인 세대의 구성원)",
+    "other": "1세대 1주택 신청 원칙, 과거 공공임대주택 불법양도·전대 행위로 적발된 후 4년이 경과되지 않은 경우 신청 불가"
+   },
    "uid": "LH:21557"
   },
   {
@@ -1009,11 +1021,17 @@
    "deposit": 12471000,
    "monthly_rent": 104740,
    "contact": "LH 콜센터 : 1600-1004 (평일 : 09:00 ~ 18:00)",
-   "pdf_url": null,
+   "pdf_url": "https://www.myhome.go.kr/hws/com/fms/cvplFileDownload.do?atchFileId=1a1e2f4b93278&fileSn=1",
    "lat": null,
    "lng": null,
-   "summary": null,
-   "eligibility": null,
+   "summary": "경남 양산시 상북면에 위치한 양산대석휴먼시아 국민임대주택 39㎡ 형 예비입주자 60호를 모집합니다. 입주자모집공고일은 2026년 11월 16일이며, 청약 신청 접수는 2026년 11월 26일 하루 동안 진행됩니다. 인터넷, 모바일 또는 지정된 현장 장소(관리사무소)에서 청약 신청이 가능합니다.",
+   "eligibility": {
+    "age": "「민법」상 미성년자(19세 미만)는 공급 신청할 수 없습니다. (단, 자녀가 있는 미성년 세대주, 형제자매 부양 미성년 세대주, 외국인 부모와 미성년 자녀 세대주 한부모가족은 신청 가능)",
+    "income": "2025년도 도시근로자 가구원수별 가구당 월평균 소득 기준 충족 (1인 가구 90% 이하 3,432,027원, 2인 가구 80% 이하 4,693,016원, 3인 가구 70% 이하 5,717,900원 이하 등)",
+    "assets": "세대구성원 전원이 보유하고 있는 총자산가액 합산기준 345백만원 이하, 개별 자동차가액 4,542만원 이하 (출산자녀 수에 따라 가산 적용 가능)",
+    "residence": "입주자모집공고일(2026.11.16) 현재 무주택세대구성원 (입주자모집공고일부터 입주 시까지 무주택세대구성원 유지)",
+    "other": "1세대 1주택 신청 원칙, 과거 공공임대주택 불법양도·전대 행위 적발 후 4년 미경과자는 입주 불가"
+   },
    "uid": "LH:21555"
   },
   {
@@ -1035,11 +1053,17 @@
    "deposit": 22664000,
    "monthly_rent": 167990,
    "contact": "LH 콜센터 : 1600-1004 (평일 : 09:00 ~ 18:00)",
-   "pdf_url": null,
+   "pdf_url": "https://www.myhome.go.kr/hws/com/fms/cvplFileDownload.do?atchFileId=1a1e2f0a9ea85&fileSn=1",
    "lat": null,
    "lng": null,
-   "summary": null,
-   "eligibility": null,
+   "summary": "창원시 진해구 국민임대주택(진해청안그린빌, 진해청안해오름)의 예비입주자를 모집합니다. 청약 신청은 2026년 11월 26일에 인터넷, 모바일 및 현장에서 접수합니다. 예비입주자 당첨 발표는 2027년 3월 19일입니다.",
+   "eligibility": {
+    "age": "「민법」상 미성년자(19세 미만)는 공급 신청할 수 없습니다. (단, 자녀가 있는 미성년 세대주, 형제자매를 부양하는 미성년 세대주, 외국인 부모와 미성년 자녀 세대주인 한부모가족은 예외)",
+    "income": "2025년도 도시근로자 가구원수별 가구당 월평균 소득 70% 이하 (1인 가구 20% 가산, 2인 가구 10% 가산)",
+    "assets": "총자산가액 34,500만원 이하, 자동차가액 4,542만원 이하 (세대구성원 전원 보유 기준)",
+    "residence": "입주자모집공고일(2026.11.16.) 현재 무주택세대구성원 (입주 시까지 무주택세대구성원 유지)",
+    "other": "과거 공공임대주택 불법양도·전대 행위로 적발된 후 4년이 경과되지 않은 경우 신청 불가, 금융정보 등 제공 동의서 제출 필수"
+   },
    "uid": "LH:21554"
   },
   {
@@ -1087,11 +1111,17 @@
    "deposit": 16664000,
    "monthly_rent": 182640,
    "contact": "LH 콜센터 : 1600-1004 (평일 : 09:00 ~ 18:00)",
-   "pdf_url": null,
+   "pdf_url": "https://www.myhome.go.kr/hws/com/fms/cvplFileDownload.do?atchFileId=1a1e2f0c74930&fileSn=1",
    "lat": null,
    "lng": null,
-   "summary": null,
-   "eligibility": null,
+   "summary": "창원시 진해구 국민임대주택(진해청안그린빌, 진해청안해오름)의 예비입주자를 모집합니다. 공고일 기준 무주택세대구성원으로서 소득 및 자산 보유 기준을 충족해야 합니다. 청약 신청은 2026년 11월 26일에 진행되며 예비입주자 당첨 발표는 2027년 3월 19일입니다.",
+   "eligibility": {
+    "age": "「민법」상 미성년자(19세 미만)는 공급 신청할 수 없습니다.",
+    "income": "2025년도 도시근로자 가구원수별 가구당 월평균 소득 70% 이하 (1인 가구 20% 가산, 2인 가구 10% 가산)",
+    "assets": "총자산가액 세대구성원 전원이 보유하고 있는 총자산가액 합산기준 ( 345 )백만원 이하, 자동차가액 세대구성원 전원이 보유하고 있는 개별 자동차가액 ( 4,542 )만원 이하",
+    "residence": "입주자모집공고일(2026.11.16.) 현재 무주택세대구성원(세대에 속하는 사람 전체가 무주택인 세대의 구성원)",
+    "other": "과거 공공임대주택 임차인으로서 불법양도, 전대 행위로 적발된 후 4년이 경과되지 않은 경우 입주자로 선정이 불가합니다."
+   },
    "uid": "LH:21552"
   },
   {
@@ -1321,7 +1351,7 @@
    "deposit": 25434000,
    "monthly_rent": 179680,
    "contact": "LH 콜센터 : 1600-1004 (평일 : 09:00 ~ 18:00)",
-   "pdf_url": null,
+   "pdf_url": "https://www.myhome.go.kr/hws/com/fms/cvplFileDownload.do?atchFileId=1a1e23043e153&fileSn=1",
    "lat": null,
    "lng": null,
    "summary": null,
@@ -1981,7 +2011,7 @@
    "deposit": 14704000,
    "monthly_rent": 183590,
    "contact": "LH 콜센터 : 1600-1004 (평일 : 09:00 ~ 18:00)",
-   "pdf_url": null,
+   "pdf_url": "https://www.myhome.go.kr/hws/com/fms/cvplFileDownload.do?atchFileId=1a1bde58db210&fileSn=1",
    "lat": null,
    "lng": null,
    "summary": null,
@@ -2033,7 +2063,7 @@
    "deposit": 9628000,
    "monthly_rent": 150570,
    "contact": "LH 콜센터 : 1600-1004 (평일 : 09:00 ~ 18:00)",
-   "pdf_url": null,
+   "pdf_url": "https://www.myhome.go.kr/hws/com/fms/cvplFileDownload.do?atchFileId=1a1ae389cbb18&fileSn=1",
    "lat": null,
    "lng": null,
    "summary": null,
